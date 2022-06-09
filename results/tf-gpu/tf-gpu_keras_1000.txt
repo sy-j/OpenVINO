@@ -1,0 +1,31 @@
+batch_size = 1000
+
+batch num 0 : GPS = 266.9
+batch num 1 : GPS = 1803.2
+batch num 2 : GPS = 1970.6
+batch num 3 : GPS = 2155.2
+batch num 4 : GPS = 1904.5
+batch num 5 : GPS = 2124.6
+batch num 6 : GPS = 2065.9
+batch num 7 : GPS = 2253.2
+batch num 8 : GPS = 2232.1
+batch num 9 : GPS = 2315.4
+batch num 10 : GPS = 2273.1
+batch num 11 : GPS = 2232.4
+batch num 12 : GPS = 2101.1
+batch num 13 : GPS = 2273.5
+batch num 14 : GPS = 2212.1
+batch num 15 : GPS = 2272.8
+batch num 16 : GPS = 2273.0
+batch num 17 : GPS = 2336.6
+batch num 18 : GPS = 2137.4
+batch num 19 : GPS = 2154.7
+batch num 20 : GPS = 2016.7
+batch num 21 : GPS = 2083.6
+batch num 22 : GPS = 2314.3
+batch num 23 : GPS = 2213.2
+batch num 24 : GPS = 2252.8
+
+# of gene = 25000 
+spent time = 14.876976013183594 (s)
+Gene Per Second = Total GPS = 1680.4

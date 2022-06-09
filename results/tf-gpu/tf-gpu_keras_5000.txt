@@ -1,0 +1,11 @@
+batch_size = 5000
+
+batch num 0 : GPS = 929.8
+batch num 1 : GPS = 2389.3
+batch num 2 : GPS = 2279.9
+batch num 3 : GPS = 2178.7
+batch num 4 : GPS = 2310.6
+
+# of gene = 25000 
+spent time = 14.12247610092163 (s)
+Gene Per Second = Total GPS = 1770.2
